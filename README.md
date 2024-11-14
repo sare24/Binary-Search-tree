@@ -6,9 +6,7 @@ A simple C program for inserting nodes into a binary tree. This project demonstr
 - [Overview](#overview)
 - [Requirements](#requirements)
 - [Compilation](#compilation)
-- [Usage](#usage)
-- [Example](#example)
-- [License](#license)
+
 
 ## Overview
 
